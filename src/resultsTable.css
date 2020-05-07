@@ -1,0 +1,53 @@
+table {
+  color: #fff;
+  border-collapse: collapse;
+  border-spacing: 0;
+  text-align: center;
+}
+
+thead {
+  background: rgb(88, 88, 88);
+}
+
+td {
+  padding: 10px 15px;
+}
+
+tbody td {
+  border-bottom: 1px solid rgb(179, 219, 219);
+}
+
+tbody tr:last-of-type td {
+  border-bottom: none;
+}
+
+span {
+  color: #fff;
+}
+
+.answer {
+  color: red;
+}
+
+.tab {
+  color: #fff;
+}
+
+.tab tr {
+  border-bottom: 2px solid rgb(139, 139, 139);
+  background: rgb(90, 90, 90);
+}
+
+.tab tr th {
+  padding: 10px;
+}
+
+.tab tr th, .tab td {
+  border-left: 1px solid rgb(194, 194, 194);
+  border-right: 1px solid rgb(194, 194, 194);
+}
+
+.modulo, .rsa, .alfabet {
+  padding: 20px;
+  border-bottom: 1px solid rgb(146, 146, 146);
+}
