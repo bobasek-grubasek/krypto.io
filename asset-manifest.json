@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/krypto/static/css/main.d1b05096.chunk.css",
-    "main.js": "/krypto/static/js/main.a8d39fed.chunk.js",
-    "main.js.map": "/krypto/static/js/main.a8d39fed.chunk.js.map",
+    "main.css": "/krypto/static/css/main.bd20a23b.chunk.css",
+    "main.js": "/krypto/static/js/main.02e51e83.chunk.js",
+    "main.js.map": "/krypto/static/js/main.02e51e83.chunk.js.map",
     "runtime-main.js": "/krypto/static/js/runtime-main.132d6f80.js",
     "runtime-main.js.map": "/krypto/static/js/runtime-main.132d6f80.js.map",
-    "static/js/2.eec57751.chunk.js": "/krypto/static/js/2.eec57751.chunk.js",
-    "static/js/2.eec57751.chunk.js.map": "/krypto/static/js/2.eec57751.chunk.js.map",
+    "static/js/2.3f507626.chunk.js": "/krypto/static/js/2.3f507626.chunk.js",
+    "static/js/2.3f507626.chunk.js.map": "/krypto/static/js/2.3f507626.chunk.js.map",
     "index.html": "/krypto/index.html",
-    "precache-manifest.82b2709a6486f5e54a79b8bdbc9a15f5.js": "/krypto/precache-manifest.82b2709a6486f5e54a79b8bdbc9a15f5.js",
+    "precache-manifest.fc97d99b471f9ade82a7f3339c8cba42.js": "/krypto/precache-manifest.fc97d99b471f9ade82a7f3339c8cba42.js",
     "service-worker.js": "/krypto/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/krypto/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.eec57751.chunk.js.LICENSE.txt": "/krypto/static/js/2.eec57751.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/krypto/static/media/logo.5d5d9eef.svg"
+    "static/css/main.bd20a23b.chunk.css.map": "/krypto/static/css/main.bd20a23b.chunk.css.map",
+    "static/js/2.3f507626.chunk.js.LICENSE.txt": "/krypto/static/js/2.3f507626.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.132d6f80.js",
-    "static/js/2.eec57751.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.a8d39fed.chunk.js"
+    "static/js/2.3f507626.chunk.js",
+    "static/css/main.bd20a23b.chunk.css",
+    "static/js/main.02e51e83.chunk.js"
   ]
 }
