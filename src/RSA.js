@@ -44,16 +44,26 @@ function RSA() {
 
         <RSATable base={val_e} mod={phi} func={setVal_d} />
 
-        <p>
-          <span className="answer">
-            k<sub>1</sub> = (e, n) = ({val_e + ", " + n}){" "}
-          </span>
-        </p>
-        <p>
-          <span className="answer">
-            k<sub>2</sub> = (d, n) = ({val_d + ", " + n})
-          </span>
-        </p>
+        <div className="answer">
+          <p>
+            Ostatni V<sub>i</sub> mod n !!!
+          </p>
+          <p>
+            {" "}
+            d  = {val_d} mod {phi} = {val_d >= 0 ? val_d % phi : val_d + phi}
+          </p>
+
+          <p>
+            <span>
+              k<sub>1</sub> = (e, n) = ({val_e + ", " + n}){" "}
+            </span>
+          </p>
+          <p>
+            <span>
+              k<sub>2</sub> = (d, n) = ({(val_d % phi) + ", " + n})
+            </span>
+          </p>
+        </div>
       </div>
     </div>
   );
