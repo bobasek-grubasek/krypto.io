@@ -10,7 +10,7 @@ function RSA() {
 
   let n = val_p * val_q;
   let phi = (val_p - 1) * (val_q - 1);
-  let value = val_d >= 0 ? val_d % phi : val_d + phi;
+  let val = val_d >= 0 ? val_d % phi : val_d + phi;
 
   return (
     <div className="rsa">
@@ -51,7 +51,7 @@ function RSA() {
           </p>
           <p>
             {" "}
-            d  = {val_d} mod {phi} = {value}
+            d  = {val_d} mod {phi} = {val}
           </p>
 
           <p>
@@ -61,7 +61,7 @@ function RSA() {
           </p>
           <p>
             <span>
-              k<sub>2</sub> = (d, n) = ({value + ", " + n})
+              k<sub>2</sub> = (d, n) = ({val + ", " + n})
             </span>
           </p>
         </div>
