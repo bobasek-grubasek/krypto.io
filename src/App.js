@@ -6,9 +6,9 @@ import Alfabet from './Alfabet'
 function App() {
   return (
     <div>
-      {/* <Modulo /> */}
-      {/* <RSA /> */}
-      {/* <Alfabet/> */}
+      <Modulo />
+      <RSA />
+      <Alfabet/>
     </div>
   );
 }
