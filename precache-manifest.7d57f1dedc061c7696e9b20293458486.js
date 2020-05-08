@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d450fd10ef3b493128f901fac7bde784",
+    "revision": "fe9bb38dad1f1974b41140fbd8cebf69",
     "url": "/krypto.io/index.html"
   },
   {
-    "revision": "e4dc3e7922580ad51143",
+    "revision": "a31e756bda457c853dcf",
     "url": "/krypto.io/static/css/main.bd20a23b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/krypto.io/static/js/2.3f507626.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e4dc3e7922580ad51143",
-    "url": "/krypto.io/static/js/main.44f46ca1.chunk.js"
+    "revision": "a31e756bda457c853dcf",
+    "url": "/krypto.io/static/js/main.593f6cc7.chunk.js"
   },
   {
     "revision": "7a9c47b7e7726c7ea661",
